@@ -1,4 +1,4 @@
-# vision-ekf-fusion
+# Vision-augmented-Sensor-Fusion-project
 
 Small python pipeline that fuses a deep learning object detector with an
 extended kalman filter, so a target keeps being tracked (and its path
